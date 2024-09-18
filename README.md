@@ -1,6 +1,6 @@
 # go-stream
 
-**go-stream** is a Go (Golang) library designed for real-time stream data processing. It provides a flexible framework that allows developers to build data processing pipelines using operations like map, filter, and windowing. With its modular architecture, go-stream can be integrated with messaging systems like Google Pub/Sub, making it suitable for various real-time data processing use cases.
+**go-stream** is a Golang library designed for real-time stream data processing. It provides a flexible framework that allows developers to build data processing pipelines using operations like map, filter, and windowing. With its modular architecture, go-stream can be integrated with messaging systems like Google Pub/Sub, making it suitable for various real-time data processing use cases.
 
 ## Features
 
